@@ -1,0 +1,24 @@
+[[providers]]
+name = "myprovider"
+kind = "MyProvider"
+resource = ""
+
+[[providers]]
+name = "history-db"
+kind = "sqlite"
+resource = "events.db"
+
+[[providers]]
+name = "history"
+kind = "text"
+resource = "today.txt"
+
+[[providers]]
+name = "history-csv"
+kind = "csv"
+resource = "today.csv"
+
+[[providers]]
+name = "muffinlabs"
+kind = "web"
+resource = "https://history.muffinlabs.com/date"

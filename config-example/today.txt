@@ -1,0 +1,48 @@
+1972-05-10
+A-10 Thunderbolt II takes its first flight at Edwards Air Force Base
+military/aviation
+
+1989-07-17
+B-2 Spirit stealth bomber takes its first flight at Palmdale, California
+military/aviation
+
+1981-06-18
+F-117 Nighthawk stealth fighter takes its maiden flight at Groom Lake
+military/aviation
+
+1909-08-02
+US Army accepts the Wright Military Flyer, the world's first military airplane
+military/aviation
+
+2025-03-23
+Elfyn Evans wins WRC Safari Rally Kenya for the first time
+rally/wrc
+
+2022-10-02
+Kalle Rovanperä becomes the youngest WRC champion at 22, day after his birthday
+rally/wrc
+
+2001-02-11
+Harri Rovanperä wins Rally Sweden, his only WRC victory
+rally/wrc
+
+1988-12-28
+Elfyn Evans is born in Dolgellau, Wales
+rally/drivers
+
+2000-10-01
+Kalle Rovanperä is born in Jyväskylä, Finland
+rally/drivers
+
+1999-03-27
+F-117 Nighthawk shot down over Yugoslavia, first known stealth aircraft loss
+military/operations
+
+1989-12-19
+F-117 sees first combat in Operation Just Cause over Panama
+military/operations
+
+2025-05-10
+Today I learned Rust
+personal/learning
+
